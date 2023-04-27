@@ -15,4 +15,5 @@ AI Capstone Project with Deep Learning: coursera.org/professional-certificates/a
 IBM AI Engineering professional certificate: coursera.org/share/726cff4c02f66b6d2bbbd314ddaa103a
 
 IMPORTANTE!
-Eu percebi que o notebook nao esta abrindo aqui e está aparecendo um aviso: "Notebook validation failed: Additional properties are not allowed ('id' was unexpected)" e sinceramente ainda nao consegui resolver, mas voce pode fazer o donwload do notebook para conferir o projeto. Em breve estarei resolvendo este problem. Peço desculpas. Desculpa.
+Se você não estiver conseguindo ver o notebook faça o download. Não sei o porque, mas de vez em quando ele 
+da um problema que nao da pra ver o projeto e que ACHO que é do próprio github.
